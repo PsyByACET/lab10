@@ -1,0 +1,11 @@
+.squar {
+    display: flex;
+}
+
+.sq {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 174, 23);
+    margin-right: 10px;
+    text-align: center;
+}
